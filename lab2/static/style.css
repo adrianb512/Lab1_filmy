@@ -1,0 +1,71 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: black;
+    color:white;
+}
+header {
+    background-color: #190e0e;
+    color: white;
+    padding: 1rem 0;
+}
+header h1 {
+    margin: 0;
+    text-align: center;
+}
+main {
+    flex: 1;
+    padding: 2rem;
+}
+
+footer {
+    background-color: #f8f9fa;
+    color: #6c757d;
+      background-color: black;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+#srodek
+{
+width: 50%; 
+  margin-left: auto;
+  margin-right: auto;
+}
+#lewastrona{
+
+padding-right: 50px;
+padding-bottom: 50px;
+border-radius: 5px;
+border-style: dotted;
+border-top: none;
+border-left: none;
+
+
+
+ 
+
+}
+
+#prawastrona{
+padding-left: 50px;
+padding-bottom: 50px;
+border-radius: 5px;
+border-style: dotted;
+border-top: none;
+border-right: none;
+color: white;
+border-left: none;
+}
+
+#prawastrona input
+{
+    color: white;
+
+}
+
+#dodaj a
+{
+    color: white;
+}
